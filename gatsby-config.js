@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://booknotesbytiffany.net',
+    url: 'https://quirky-hodgkin-2f0bd3.netlify.com/',
     title: 'Book Notes by Tiffany',
     subtitle: 'I\'m Tiffany, a software developer who likes books. I write about them here.',
     // copyright: '© 2019 All rights reserved.',
